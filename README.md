@@ -1,2 +1,2 @@
-# JavaScript_4
+# js_RPS
 猜拳練習
